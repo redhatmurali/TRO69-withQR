@@ -52,7 +52,5 @@ wget -qO install_cms.sh https://raw.githubusercontent.com/redhatmurali/TR069-wit
 - Follow the prompts displayed by the installation script.
 - Configure the CMS according to your network, OLT, and VLAN settings after installation.
 
-## Repository
 
-[View the source code and installation script](https://github.com/redhatmurali/TR069-withQR)
 
